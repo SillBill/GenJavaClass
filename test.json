@@ -1,0 +1,16 @@
+[
+  {
+    "class_name":"A",
+    "method_signatures":[
+      "void f1(int x1, double x2)",
+      "void f2(java.util.String x3)"
+    ]
+  },
+  {
+    "class_name":"B",
+    "method_signatures":[
+      "void g1(int x1, double x2, floata x3)",
+      "void g2()"
+    ]
+  }
+]
